@@ -1,5 +1,7 @@
-favicon: null
-name: DJHOWARDHOPE
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.4723508374299854
+  saturation: 0.6744681
   brandStrength: 0.4650004373397678
-  lightness: 0.9203264720272273
+  lightness: 0.2595745
   brandColors:
     - '#30171F'
     - '#39425C'
     - '#6588B4'
     - '#885C43'
     - '#BEB5BC'
-  rhythmicContrast: 0.4679504237137735
-typography_spectrum: 0.1321358280256391
+  rhythmicContrast: 0.4679504
+typography_spectrum: 0.2978723
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.8572492646053433
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.9297872
+favicon: null
+name: DJHOWARDHOPE
