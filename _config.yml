@@ -1,28 +1,40 @@
-name: DJHOWARDHOPE
 favicon: null
-layout_spectrum: 0.8572492646053433
-typography_spectrum: 0.13213582802563906
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: DJHOWARDHOPE
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+  saturation: 0.4723508374299854
   brandStrength: 0.4650004373397678
   lightness: 0.9203264720272273
-  saturation: 0.4723508374299854
+  brandColors:
+    - '#30171F'
+    - '#39425C'
+    - '#6588B4'
+    - '#885C43'
+    - '#BEB5BC'
   rhythmicContrast: 0.4679504237137735
-purpose: []
+typography_spectrum: 0.1321358280256391
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8572492646053433
+analytics:
+  twitter: null
+  google: null
+  facebook: null
